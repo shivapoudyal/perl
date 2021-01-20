@@ -1,0 +1,11 @@
+1) for DBI first install this package
+    sudo apt-get install libdbi-perl
+
+2) for mysql db driver install this package
+    sudo apt-get install libdbd-mysql-perl
+
+3) for postgresql db driver install this package
+    sudo apt-get install libdbd-pg-perl   
+
+
+Note:- Mysql Driver = "mysql", PostgresSql Driver = "Pg"         
